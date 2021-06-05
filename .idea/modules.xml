@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo_android_coroutine_network_fetch.iml" filepath="$PROJECT_DIR$/.idea/modules/demo_android_coroutine_network_fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/demo_android_coroutine_network_fetch.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/demo_android_coroutine_network_fetch.app.iml" />
+    </modules>
+  </component>
+</project>

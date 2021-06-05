@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Network Access Evolution</string>
+    <string name="hint_search_string">Enter Search Text</string>
+    <string name="button_search_coroutines_ktor_async_await">Coroutines Ktor Async Await Based Search</string>
+    <string name="button_search_coroutines_okhttp_async_await">Coroutines OkHttp Async Await Based Search</string>
+    <string name="button_search_coroutines_ktor_launch">Coroutines Ktor Launch Based Search</string>
+    <string name="button_search_coroutines_okhttp_launch">Coroutines OkHttp Launch Based Search</string>
+    <string name="button_cancel">Cancel All Request</string>
+</resources>
